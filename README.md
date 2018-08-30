@@ -22,7 +22,7 @@ Caso não encontre alguma informação abaixo, pergunte ao seu par, à mentoria 
 * `cd pasta` entra na pasta
 * `cd ..` retorna um nível
 * `ls` lista todos os itens da pasta atual
-* `ls -l` lista 
+* `ls -l` lista todos os itens da pasta atual com detalhes
 * `rm -r pasta` remove uma pasta
 * `mv item destino` move o arquivo (ou pasta) ao destino escolhido
 * `cp item copia-do-item` cria uma cópia do arquivo (ou pasta)
