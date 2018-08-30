@@ -9,7 +9,8 @@ Aprendendo a navegar no terminal de forma divertida :smile:
 - [ ] Você viajou no tempo e está no ano de 2100. Devido ao aquecimento global, a `antartida` [desapareceu](http://www.tvi24.iol.pt/tecnologia/degelo/antartida-pode-desaparecer-em-2100). Remova a sua pasta e todos os seus arquivos.
 - [ ] As participantes da Aceleradora Ágil do ano de 2101 desenvolveram um sistema capaz de reverter os danos causados à `antartida`. Crie sua pasta novamente e coloque um arquivo `pinguim` dentro dela.
 - [ ] Mude o nome do `pinguim` para `pinguim-1`.
-- [ ] Crie uma cópia do `pinguim-1` e a chame de `pinguim-2`. 
+- [ ] Crie uma cópia do `pinguim-1` e a chame de `pinguim-2`.
+- [ ] Crie um arquivo com o seu nome no país que você quiser. Se o país não estiver na estrutura, crie uma pasta para ele no continente apropriado.
 
 ## Material para consulta
 Caso não encontre alguma informação abaixo, pergunte ao seu par, à mentoria ou ao Google.
