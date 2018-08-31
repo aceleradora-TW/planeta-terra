@@ -2,6 +2,10 @@
 
 Aprendendo a navegar no terminal de forma divertida :smile: 
 
+## Como começar?
+1. Faça o download do exercício clicando [aqui](/aceleradora-TW/planeta-terra/archive/master.zip).
+2. Se estiver utilizando Linux, abra o terminal apertando <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>. Se estiver utilizando Mac, aperte <kbd>⌘</kbd> + <kbd>espaço</kbd> e pesquise por "terminal". Se estiver utilizando Windows, pare imediatamente.
+
 ## Tarefas
 - [ ] Navegue até `pelotas`, encontre a `inessa` e ajude ela a chegar em `porto-alegre`.
 - [ ] Navegue até a cidade do `rio-de-janeiro`, encontre a `pati` e ajude ela a chegar em `porto-alegre`.
