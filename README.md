@@ -30,7 +30,13 @@ HMMMMMMMHo                      `MMMMMMMMMT       .
 
 ## Como começar?
 1. Faça o download do exercício clicando [aqui](https://github.com/aceleradora-TW/planeta-terra/archive/master.zip).
-2. Se estiver utilizando Linux, abra o terminal apertando <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>. Se estiver utilizando Mac, aperte <kbd>⌘</kbd> + <kbd>espaço</kbd> e pesquise por "terminal". Se estiver utilizando Windows, pare imediatamente.
+2. Extraia o .zip no seu Desktop (Área de Trabalho).
+3. Se estiver utilizando Linux, abra o terminal apertando <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>. Se estiver utilizando Mac, aperte <kbd>⌘</kbd> + <kbd>espaço</kbd> e pesquise por "terminal". Se estiver utilizando Windows, **pare imediatamente**.
+3. Execute o comando abaixo:
+```
+cd ~/Desktop/planeta-terra-master
+```
+**Atenção:** se você extraiu o .zip em outro destino ou o renomeou, o último comando deverá ser adaptado.
 
 ## Tarefas
 - [ ] Navegue até `pelotas`, encontre a `inessa` e ajude ela a chegar em `porto-alegre`.
