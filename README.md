@@ -26,3 +26,7 @@ Caso não encontre alguma informação abaixo, pergunte ao seu par, à mentoria 
 * `rm -r pasta` remove uma pasta
 * `mv item destino` move o arquivo (ou pasta) ao destino escolhido
 * `cp item copia-do-item` cria uma cópia do arquivo (ou pasta)
+
+Para memorizar os comandos facilmente, tente associar cada abreviação ao seu significado.
+
+**Exemplo:** `cd` é uma sigla para _change directory_ (mudar diretório).
