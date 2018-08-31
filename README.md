@@ -2,6 +2,32 @@
 
 Aprendendo a navegar no terminal de forma divertida :smile: 
 
+```
+              _-o#&&*''      ''?d:>b\_
+          _o/"`''       '',, dMF9MMMMMHo_
+       .o&#'             `"MbHMMMMMMMMMMMHo.
+     .o"" '              vodM*$&&HMMMMMMMMMM?.
+    ,'                   $M&ood,~'`(&##MMMMMMH\
+   /                    ,MMMMMMM#b?#bobMMMMHMMML
+  &                   ?MMMMMMMMMMMMMMMMM7MMM$R*Hk
+ ?$.                 :MMMMMMMMMMMMMMMMMMM/HMMM|`*L
+|                    |MMMMMMMMMMMMMMMMMMMMbMH'   T,
+$H#:                 `*MMMMMMMMMMMMMMMMMMMMb#}'  `?
+]MMH#                  ""*""""*#MMMMMMMMMMMMM'    -
+MMMMMb_                        |MMMMMMMMMMMP'     :
+HMMMMMMMHo                      `MMMMMMMMMT       .
+?MMMMMMMMP                       9MMMMMMMM}       -
+-?MMMMMMM                       |MMMMMMMMM?,d-    '
+ :|MMMMMM-                      `MMMMMMMT .M|.   :
+  .9MMM[                         &MMMMM*' `'    .
+   :9MMk                         `MMM#"        -
+     &M}                          `          .-
+      `&.                                  .
+        `~,   .                          ./
+            . _                      .-
+              '`--._,dd###pp=""'
+```
+
 ## Como começar?
 1. Faça o download do exercício clicando [aqui](/aceleradora-TW/planeta-terra/archive/master.zip).
 2. Se estiver utilizando Linux, abra o terminal apertando <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>. Se estiver utilizando Mac, aperte <kbd>⌘</kbd> + <kbd>espaço</kbd> e pesquise por "terminal". Se estiver utilizando Windows, pare imediatamente.
