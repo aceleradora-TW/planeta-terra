@@ -31,8 +31,8 @@ HMMMMMMMHo                      `MMMMMMMMMT       .
 ## Como começar?
 1. Faça o download do exercício clicando [aqui](https://github.com/aceleradora-TW/planeta-terra/archive/master.zip).
 2. Extraia o .zip no seu Desktop (Área de Trabalho).
-3. Se estiver utilizando Linux, abra o terminal apertando <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>. Se estiver utilizando Mac, aperte <kbd>⌘</kbd> + <kbd>espaço</kbd> e pesquise por "terminal". Se estiver utilizando Windows, **pare imediatamente**.
-3. Execute o comando abaixo:
+3. Abra o terminal apertando <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>.
+4. Execute o comando abaixo:
 ```
 cd ~/Desktop/planeta-terra-master
 ```
@@ -52,7 +52,6 @@ cd ~/Desktop/planeta-terra-master
 Caso não encontre alguma informação abaixo, pergunte ao seu par, à mentoria ou ao Google.
 
 * `touch arquivo` cria um arquivo
-* `cat arquivo` exibe o conteúdo de um arquivo
 * `rm arquivo` remove o arquivo
 * `mkdir pasta` cria uma pasta nova
 * `cd pasta` entra na pasta
